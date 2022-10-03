@@ -1,0 +1,12 @@
+{
+  "name": "admin-flex-dashboard",
+  "version": "1.0.0",
+  "description": "sample dashboard based on flex",
+  "main": "practice/index.html",
+  "repository": "git@github.com:umbrashia/admin-flex-dashboard.git",
+  "author": "shantanu sharma",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.54.9"
+  }
+}
